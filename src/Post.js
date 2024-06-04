@@ -21,7 +21,7 @@ export default function Post() {
       </div>:null
       }
       <button onClick={loadPost}>Get Post</button>
-      
+      <button onClick={loadPost}>Get Post</button>
       
     </div>
   );
